@@ -3,26 +3,42 @@
     "id" : "01",
     "name" : "Tampax Peral REGULAR",
     "description" : "Regular tampon for normal flow",
-    "price" : 3.45
+    "price" : 3.45,
+    "photos" : {
+        "filename" : "C:/Users/Alice Archer/images/tampax1.jpeg"
+
+    }
 },
 {
     "id" : "02",
     "name" : "Tampax Peral SUPER",
     "description" : "Large tampon for heavy flow",
-    "price" : 3.45
+    "price" : 3.45,
+    "photos" : {
+        "filename" : "C:/Users/Alice Archer/images/tampax2.jpeg"
+
+    }
 },
 {
     "id" : "03",
     "name" : "Always Normal Sanitary Towels",
     "description" : "Medium pad for normal flow",
-    "price" : 2.50
+    "price" : 2.50,
+    "photos" : {
+        "filename" : "C:/Users/Alice Archer/images/always1.jpeg"
+
+    }
     
 },
 {
     "id" : "04",
     "name" : "Always Long Sanitary Towels",
     "description" : "Long pad for heavy flow",
-    "price" : 2.50
+    "price" : 2.50,
+    "photos" : {
+        "filename" : "C:/Users/Alice Archer/images/always2.jpeg"
+
+    }
     
 },
     
@@ -30,14 +46,22 @@
     "id" : "05",
     "name" : "Bodyform Maxi Normal Towel",
     "description" : "Regular pad for normal flow",
-    "price" : 3.45
+    "price" : 3.45,
+    "photos" : {
+        "filename" : "C:/Users/Alice Archer/images/bodyform1.jpeg"
+
+    }
     
 },
 {
     "id" : "06",
     "name" : "Bodyform Maxi Long Towel",
     "description" : "Long pad for heavy flow",
-    "price" : 3.55
+    "price" : 3.55,
+    "photos" : {
+        "filename" : "C:/Users/Alice Archer/images/bodyform2.jpeg"
+
+    }
     
     
 },
@@ -45,7 +69,11 @@
     "id" : "07",
     "name" : "Lil-Lets Organic Regular Tampon",
     "description" : "Eco friendly regular tampon for normal flow",
-    "price" : 1.50
+    "price" : 1.50,
+    "photos" : {
+        "filename" : "C:/Users/Alice Archer/images/lil1.jpeg"
+
+    }
     
     
 },
@@ -53,7 +81,11 @@
     "id" : "08",
     "name" : "Lil-Lets Organic Super Tampn",
     "description" : "Eco friendly large tampon for heavy flow",
-    "price" : 1.50
+    "price" : 1.50,
+    "photos" : {
+        "filename" : "C:/Users/Alice Archer/images/lil2.jpeg"
+
+    }
   
     
 },
@@ -61,7 +93,11 @@
     "id" : "09",
     "name" : "TENA Discreet Mini",
     "description" : "Small pad for light flow",
-    "price" : 2.00
+    "price" : 2.00,
+    "photos" : {
+        "filename" : "C:/Users/Alice Archer/images/tena1.jpeg"
+
+    }
     
     
 },
@@ -69,23 +105,13 @@
     "id" : "10",
     "name" : "TENA Discreet Normal",
     "description" : "Regular pad for normal flow",
-    "price" : 3.00
+    "price" : 3.00,
+    "photos" : {
+        "filename" : "C:/Users/Alice Archer/images/tena2.jpeg"
+
+    }
 
      
-},
-{
-
-"photos" : [
-"C:/Users/Alice Archer/images/tampax1.jpeg",
-"C:/Users/Alice Archer/images/tampax2.jpeg",
-"C:/Users/Alice Archer/images/always1.jpeg",
-"C:/Users/Alice Archer/images/always2.jpeg",
-"C:/Users/Alice Archer/images/bodyform1.jpeg",
-"C:/Users/Alice Archer/images/bodyform2.jpeg",
-"C:/Users/Alice Archer/images/lil1.jpeg",
-"C:/Users/Alice Archer/images/lil2.jpeg",
-"C:/Users/Alice Archer/images/tena1.jpeg",
-"C:/Users/Alice Archer/images/tena2.jpeg"]
-
 }
+
 ]
