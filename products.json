@@ -3,7 +3,10 @@
     "id" : "01",
     "name" : "Tampax Peral REGULAR",
     "description" : "Regular tampon for normal flow",
-    "photos" : ["C:/Users/Alice Archer/images/tampax1.jpeg"]
+    "photos" : {
+        "photos" : "C:/Users/Alice Archer/images/tampax1.jpeg"
+    }
+
 },
 {
     "id" : "02",
