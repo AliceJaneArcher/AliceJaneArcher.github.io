@@ -5,7 +5,7 @@
     "description" : "Regular tampon for normal flow",
     "price" : 3.45,
     "photos" : [ {
-        "filename" : "tampax1.jpeg"
+        "filename" : "/Users/Alice Archer/images/tampax1.jpeg"
 
     } ]
 },
@@ -15,7 +15,7 @@
     "description" : "Large tampon for heavy flow",
     "price" : 3.45,
     "photos" : [ {
-        "filename" : "tampax2.jpeg"
+        "filename" : "/Users/Alice Archer/images/tampax2.jpeg"
 
     } ]
 },
@@ -86,7 +86,7 @@
         "filename" : "/Users/Alice Archer/images/lil2.jpeg"
 
     }]
-  
+
     
 },
 {
