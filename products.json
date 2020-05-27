@@ -5,7 +5,7 @@
     "description" : "Regular tampon for normal flow",
     "price" : 3.45,
     "photos" : [ {
-        "filename" : "C:/Users/Alice Archer/images/tampax1.jpeg"
+        "filename" : "tampax1.jpeg"
 
     } ]
 },
@@ -15,7 +15,7 @@
     "description" : "Large tampon for heavy flow",
     "price" : 3.45,
     "photos" : [ {
-        "filename" : "C:/Users/Alice Archer/images/tampax2.jpeg"
+        "filename" : "tampax2.jpeg"
 
     } ]
 },
@@ -25,7 +25,7 @@
     "description" : "Medium pad for normal flow",
     "price" : 2.50,
     "photos" : [ {
-        "filename" : "C:/Users/Alice Archer/images/always1.jpeg"
+        "filename" : "always1.jpeg"
 
     } ]
     
@@ -36,7 +36,7 @@
     "description" : "Long pad for heavy flow",
     "price" : 2.50,
     "photos" :[ {
-        "filename" : "C:/Users/Alice Archer/images/always2.jpeg"
+        "filename" : "always2.jpeg"
 
     }]
     
@@ -48,7 +48,7 @@
     "description" : "Regular pad for normal flow",
     "price" : 3.45,
     "photos" : [ {
-        "filename" : "C:/Users/Alice Archer/images/bodyform1.jpeg"
+        "filename" : "bodyform1.jpeg"
 
     } ]
     
@@ -59,7 +59,7 @@
     "description" : "Long pad for heavy flow",
     "price" : 3.55,
     "photos" : [{
-        "filename" : "C:/Users/Alice Archer/images/bodyform2.jpeg"
+        "filename" : "bodyform2.jpeg"
 
     }]
     
@@ -71,7 +71,7 @@
     "description" : "Eco friendly regular tampon for normal flow",
     "price" : 1.50,
     "photos" : [{
-        "filename" : "C:/Users/Alice Archer/images/lil1.jpeg"
+        "filename" : "lil1.jpeg"
 
     }]
     
@@ -83,7 +83,7 @@
     "description" : "Eco friendly large tampon for heavy flow",
     "price" : 1.50,
     "photos" : [{
-        "filename" : "C:/Users/Alice Archer/images/lil2.jpeg"
+        "filename" : "lil2.jpeg"
 
     }]
   
@@ -95,7 +95,7 @@
     "description" : "Small pad for light flow",
     "price" : 2.00,
     "photos" : [{
-        "filename" : "C:/Users/Alice Archer/images/tena1.jpeg"
+        "filename" : "tena1.jpeg"
 
     }]
     
@@ -106,7 +106,7 @@
     "description" : "Regular pad for normal flow",
     "price" : 3.00,
     "photos" : [{
-        "filename" : "C:/Users/Alice Archer/images/tena2.jpeg"
+        "filename" : "tena2.jpeg"
 
     }]
 }
