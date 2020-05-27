@@ -7,7 +7,7 @@
     "photos" : [ {
         "filename" : "https://res.cloudinary.com/mtree/image/upload/f_auto,q_auto/TampaxPilot/en-us/-/media/TampaxPilot/Images/Products/Category/Spring%202020/Pearl/Product%20images/Listing%20174x174/Tampax_Pearl_Triopack_34ct_unscented.png?v=1-202003050934"
     } ]
-    
+
 },
 {
     "id" : "02",
@@ -15,7 +15,7 @@
     "description" : "Large tampon for heavy flow",
     "price" : 3.45,
     "photos" : [ {
-        "filename" : "/Users/Alice Archer/images/tampax2.jpeg"
+        "filename" : "https://www.clearchemist.co.uk/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/4/0/4015400434788_T1.png"
 
     } ]
 },
@@ -25,7 +25,7 @@
     "description" : "Medium pad for normal flow",
     "price" : 2.50,
     "photos" : [ {
-        "filename" : "/Users/Alice Archer/images/always1.jpeg"
+        "filename" : "https://i7.pngflow.com/pngimage/229/362/png-3-pack-of-always-ultra-thin-sanitary-napkin-always-maxi-with-wings-always-maxi-extra-heavy-overnight-pads-36-count-sanitary-pad-hygiene-always-cloth-menstrual-pad-feminine-clipart.png"
 
     } ]
     
@@ -36,7 +36,7 @@
     "description" : "Long pad for heavy flow",
     "price" : 2.50,
     "photos" :[ {
-        "filename" : "/Users/Alice Archer/images/always2.jpeg"
+        "filename" : "https://www.kindpng.com/picc/m/89-896636_always-ultra-long-sanitary-towels-wings-hd-png.png"
 
     }]
     
@@ -48,7 +48,7 @@
     "description" : "Regular pad for normal flow",
     "price" : 3.45,
     "photos" : [ {
-        "filename" : "/Users/Alice Archer/images/bodyform1.jpeg"
+        "filename" : "https://libresse-images.essity.com/images-c5/760/272760/optimized-AzurePNG615CropUp/bodyform-pi-so-slim.png?w=305&h=305&imPolicy=dynamic"
 
     } ]
     
@@ -59,7 +59,7 @@
     "description" : "Long pad for heavy flow",
     "price" : 3.55,
     "photos" : [{
-        "filename" : "/Users/Alice Archer/images/bodyform2.jpeg"
+        "filename" : "https://libresse-images.essity.com/images-c5/92/273092/optimized-AzurePNG615CropUp/bodyform-ultra-normal-16.png?w=305&h=305&imPolicy=dynamic"
 
     }]
     
@@ -71,7 +71,7 @@
     "description" : "Eco friendly regular tampon for normal flow",
     "price" : 1.50,
     "photos" : [{
-        "filename" : "/Users/Alice Archer/images/lil1.jpeg"
+        "filename" : "https://www.lil-lets.com/uk/imagefilehandler.ashx?nsfguid=e003b6b7-fe37-4f91-85e7-116a81df72d0"
 
     }]
     
@@ -83,7 +83,7 @@
     "description" : "Eco friendly large tampon for heavy flow",
     "price" : 1.50,
     "photos" : [{
-        "filename" : "/Users/Alice Archer/images/lil2.jpeg"
+        "filename" : "https://boots.scene7.com/is/image/Boots/10263207?id=-Klmv1&fmt=jpg&fit=constrain,1&wid=504&hei=548"
 
     }]    
 },
@@ -93,7 +93,7 @@
     "description" : "Small pad for light flow",
     "price" : 2.00,
     "photos" : [{
-        "filename" : "/Users/Alice Archer/images/tena1.jpeg"
+        "filename" : "https://tena-images.essity.com/images-c5/327/248327/optimized-AzurePNG2K/tena-discreet-pads-mini.png?w=1600&h=500&imPolicy=dynamic"
 
     }]
     
@@ -104,7 +104,7 @@
     "description" : "Regular pad for normal flow",
     "price" : 3.00,
     "photos" : [{
-        "filename" : "/Users/Alice Archer/images/tena2.jpeg"
+        "filename" : "https://tena-images.essity.com/images-c5/607/81607/optimized-AzurePNG2K/540-tena-lady-bulld-normal-24p-b1-back-pads.png?w=1600&h=500&imPolicy=dynamic"
 
     }]
 }
