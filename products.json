@@ -5,7 +5,8 @@
     "description" : "Regular tampon for normal flow",
     "price" : 3.45,
     "photos" : [ {
-        "filename" : "https://images-na.ssl-images-amazon.com/images/I/81emjMFdIzL._AC_SL1500_.jpg"
+        "filename" : "tampax1.jpeg"
+
     } ]
 },
 {
@@ -24,7 +25,7 @@
     "description" : "Medium pad for normal flow",
     "price" : 2.50,
     "photos" : [ {
-        "filename" : "always1.jpeg"
+        "filename" : "/Users/Alice Archer/images/always1.jpeg"
 
     } ]
     
@@ -35,7 +36,7 @@
     "description" : "Long pad for heavy flow",
     "price" : 2.50,
     "photos" :[ {
-        "filename" : "always2.jpeg"
+        "filename" : "/Users/Alice Archer/images/always2.jpeg"
 
     }]
     
@@ -47,7 +48,7 @@
     "description" : "Regular pad for normal flow",
     "price" : 3.45,
     "photos" : [ {
-        "filename" : "bodyform1.jpeg"
+        "filename" : "/Users/Alice Archer/images/bodyform1.jpeg"
 
     } ]
     
@@ -58,7 +59,7 @@
     "description" : "Long pad for heavy flow",
     "price" : 3.55,
     "photos" : [{
-        "filename" : "bodyform2.jpeg"
+        "filename" : "/Users/Alice Archer/images/bodyform2.jpeg"
 
     }]
     
@@ -70,7 +71,7 @@
     "description" : "Eco friendly regular tampon for normal flow",
     "price" : 1.50,
     "photos" : [{
-        "filename" : "lil1.jpeg"
+        "filename" : "/Users/Alice Archer/images/lil1.jpeg"
 
     }]
     
@@ -82,7 +83,7 @@
     "description" : "Eco friendly large tampon for heavy flow",
     "price" : 1.50,
     "photos" : [{
-        "filename" : "lil2.jpeg"
+        "filename" : "/Users/Alice Archer/images/lil2.jpeg"
 
     }]
   
@@ -94,7 +95,7 @@
     "description" : "Small pad for light flow",
     "price" : 2.00,
     "photos" : [{
-        "filename" : "tena1.jpeg"
+        "filename" : "/Users/Alice Archer/images/tena1.jpeg"
 
     }]
     
@@ -105,7 +106,8 @@
     "description" : "Regular pad for normal flow",
     "price" : 3.00,
     "photos" : [{
-        "filename" : "tena2.jpeg"
+        "filename" : "/Users/Alice Archer/images/tena2.jpeg"
+
     }]
 }
 
